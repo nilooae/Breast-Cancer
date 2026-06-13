@@ -85,3 +85,18 @@ The Logistic Regression model achieved strong classification performance on the 
 * Feature selection
 * Cross-validation
 * Data visualization improvements
+                                                                                                                                                                                                                                                                                                                                          
+  ## Results
+
+The Logistic Regression model achieved the following performance:
+
+- Accuracy: 97.37%
+- Precision: 97.22%
+- Recall: 98.59%
+- F1 Score: 97.90%
+
+Confusion Matrix:
+
+[[41, 2],
+ [1, 70]]                                                                                                                                                                                                                                                                                                                                        
+                                                                                                                                                                                                                                                                                                                                          
