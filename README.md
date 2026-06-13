@@ -76,18 +76,6 @@ from sklearn.metrics import (
 
 ## Results
 
-The Logistic Regression model achieved strong classification performance on the dataset and successfully distinguished between malignant and benign tumors.
-
-## Future Improvements
-
-* Try different classification models
-* Hyperparameter tuning
-* Feature selection
-* Cross-validation
-* Data visualization improvements
-                                                                                                                                                                                                                                                                                                                                          
-  ## Results
-
 The Logistic Regression model achieved the following performance:
 
 - Accuracy: 97.37%
@@ -98,5 +86,19 @@ The Logistic Regression model achieved the following performance:
 Confusion Matrix:
 
 [[41, 2],
- [1, 70]]                                                                                                                                                                                                                                                                                                                                        
+ [1, 70]]
+
+The model successfully distinguished between malignant and benign tumors and demonstrated strong classification performance on the dataset.
+
+
+
+## Future Improvements
+
+* Try different classification models
+* Hyperparameter tuning
+* Feature selection
+* Cross-validation
+* Data visualization improvements
+                                                                                                                                                                                                                                                                                                                                          
+                                                                                                                                                            
                                                                                                                                                                                                                                                                                                                                           
